@@ -13,7 +13,7 @@ Ge Di 1200-1249
 Ge Do 1250-1299
 Reserva para nuevos modulos de otras marcas 1300-1999
 */
-let allHardware=[
+const allHardware=[
     //Plc Siemens
     {
         id : 1,
