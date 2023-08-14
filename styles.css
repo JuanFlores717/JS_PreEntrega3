@@ -5,8 +5,20 @@
 
     min-width: 300px;
     max-width: 700;
+    margin-bottom: 10px;
 
 }
 body{
     background-color: lightslategray;
+}
+.endContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.totalP{
+    background-color: white;
+    border-radius: 5px;
+    padding: 0 10px;
+    text-align: end;
 }
